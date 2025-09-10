@@ -38,3 +38,6 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 .[Class 3](class3).
 
 [subsection example] (#subsection-example).
+
+# Example Image
+![Onetree](Unknown-2 U)
